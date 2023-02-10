@@ -76,6 +76,10 @@
 ☐ Ski Gloves
 ☐ Neck warmer
 ☐ Thin hat
+☐ Salopettes
+☐ Outer jacket
+☐ Goggles/Glasses
+☐ Ski/Snowboard boots
 
 ☐ 5x Normal socks
 ☐ 5x Pants
@@ -103,3 +107,70 @@
 ☐ Tablet
 ☐ Cards
 ☐ Book
+
+# Adults Skiing Packing List
+
+☐ 2x Thermal tops
+☐ 2x Thermal leggings
+☐ 2x Long Sleeved Top
+☐ 2x Jumpers/hoodies
+☐ 2x Jogging bottoms
+☐ 1x Jacket
+☐ 2x Ski Socks
+☐ Ski Gloves
+☐ Neck warmer
+☐ Thin hat
+☐ Salopettes
+☐ Outer jacket
+☐ Goggles/Glasses
+☐ Ski/Snowboard boots
+
+☐ 5x Normal socks
+☐ 5x Pants
+☐ 2x Dress/Outfit
+☐ 2x Jeans/leggings
+☐ 2x Warm Cardigan/jumper
+☐ School Gloves
+☐ Thick hat
+☐ Belt
+
+☐ Swimming Costume
+
+☐ Eye mask
+☐ Ear Plugs
+☐ 1x Warm pajamas
+☐ Sunglasses
+
+☐ 6x Bobbles
+☐ 6x Hair clips
+☐ 1x Hair brush to share
+☐ Toothbrush
+☐ Hair products
+☐ Deodorant
+☐ Shampoo/Conditioner
+☐ Moisturiser
+☐ Travel pillow
+
+☐ Pens
+☐ Notebook
+☐ Big Headphones
+☐ In ear headphones
+☐ Phone
+☐ Cards
+☐ Book/Kindle
+
+☐ Currency
+☐ Credit Cards
+☐ Debit Cards
+☐ Driving License
+☐ Passports
+☐ Travel cards
+
+☐ Flight tickets
+☐ Travel tickets
+☐ Visa
+
+☐ Water
+☐ Decaf tea bags
+☐ Gifts
+
