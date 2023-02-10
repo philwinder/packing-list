@@ -1,4 +1,4 @@
-# Work Packing List
+# Work Packing List
 
 ☐ T-Shirts
 ☐ Shirt
@@ -63,3 +63,43 @@
 ☐ Water
 ☐ Gifts (chocolate!)
 ☐ Decaf tea bags
+
+# Kids Skiing Packing List
+
+☐ 2x Thermal tops
+☐ 2x Thermal leggings
+☐ 2x Long Sleeved Top
+☐ 2x Jumpers/hoodies
+☐ 2x Jogging bottoms
+☐ 1x Jacket
+☐ 2x Ski Socks
+☐ Ski Gloves
+☐ Neck warmer
+☐ Thin hat
+
+☐ 5x Normal socks
+☐ 5x Pants
+☐ 1x Dress/Outfit
+☐ 1x Jeans/leggings
+☐ 1x Warm Cardigan/jumper
+☐ School Gloves
+☐ Thick hat
+
+☐ Swimming Costume
+
+☐ Eye mask
+☐ Teddy
+☐ 2x Warm pajamas
+
+☐ 6x Bobbles
+☐ 6x Hair clips
+☐ 1x Hair brush to share
+☐ Toothbrush
+☐ Sunglasses
+
+☐ Pens
+☐ Notebook
+☐ Headphones
+☐ Tablet
+☐ Cards
+☐ Book
