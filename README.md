@@ -64,6 +64,48 @@
 ☐ Gifts (chocolate!)
 ☐ Decaf tea bags
 
+# Kids Holiday Packing List
+
+## Wear to Travel
+
+☐ Trainers
+☐ 1 x Full travel outfit
+
+## Suitcase 
+
+☐ 4 x Pants
+☐ 4 x Socks
+☐ 2 x Dresses
+☐ 2 x T-Shirts
+☐ 2 x Trousers / Leggings
+☐ 1 x Shorts
+☐ 1 x Cardigan / Jumper
+
+☐ Rain coat / Coat / Jacket
+☐ Hat / Cap
+☐ Fancy shoes
+☐ Sunglasses
+
+☐ Eye mask
+☐ Teddies
+☐ Pyjamas
+
+☐ Bobbles / Hair clips (to share)
+☐ Hair brush (to share)
+☐ Toothbrush
+☐ Perfume
+☐ Makeup
+
+## Travel Bag / Backpack
+
+☐ Notebook
+☐ Activity / Colouring book
+☐ Pens/pencils
+☐ Headphones
+☐ Tablet / Phone
+☐ Book
+☐ Cards / Games
+
 # Kids Skiing Packing List
 
 ☐ 2x Thermal tops
