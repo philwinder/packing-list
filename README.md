@@ -216,3 +216,37 @@
 - [ ] Decaf tea bags
 - [ ] Gifts
 
+# Camping
+
+## Wet Weather
+
+- Shoes for in the water (not sandals)
+- Shorts for in the water
+- swimming costume
+
+- Rain coat
+- hoodie/jumper/fleece
+- thermal top
+- thin jacket
+- cap/hat for the rain
+- shoes for hiking
+
+
+- 3 t-shirt
+- 4 pants
+- 4 socks
+- 1 shorts
+- 1 trousers/jeans
+- 1 leggings 
+- 1 dress
+
+
+- [ ] Eye mask
+- [ ] Teddies
+- [ ] Pyjamas
+- [ ] Bobbles / Hair clips (to share)
+
+
+
+
+
