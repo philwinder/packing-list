@@ -310,6 +310,7 @@
 - [ ] washing up liquid
 - [ ] cloth
 - [ ] tea towel
+- [ ] rucksack 
 
 ---
 
