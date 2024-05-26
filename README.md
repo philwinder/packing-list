@@ -220,33 +220,112 @@
 
 ## Wet Weather
 
-- Shoes for in the water (not sandals)
-- Shorts for in the water
-- swimming costume
+### Kids
 
-- Rain coat
-- hoodie/jumper/fleece
-- thermal top
-- thin jacket
-- cap/hat for the rain
-- shoes for hiking
+- [ ] Shoes for in the water (not sandals)
+- [ ] Shorts for in the water
+- [ ] swimming costume
 
+---
 
-- 3 t-shirt
-- 4 pants
-- 4 socks
-- 1 shorts
-- 1 trousers/jeans
-- 1 leggings 
-- 1 dress
+- [ ] Rain coat
+- [ ] hoodie/jumper/fleece
+- [ ] thermal top
+- [ ] thin jacket
+- [ ] cap/hat for the rain
+- [ ] shoes for hiking
 
+---
+
+- [ ] 3 t-shirt
+- [ ] 4 pants
+- [ ] 4 socks
+- [ ] 1 shorts
+- [ ] 1 trousers/jeans
+- [ ] 1 leggings 
+- [ ] 1 dress
+
+---
 
 - [ ] Eye mask
 - [ ] Teddies
 - [ ] Pyjamas
 - [ ] Bobbles / Hair clips (to share)
+- [ ] Hair brush
+- [ ] phone
+- [ ] headphones
 
+---
 
+### Adults
 
+- [ ] Shoes for in the water (not sandals)
+- [ ] Shorts for in the water
+- [ ] swimming costume
+
+---
+
+- [ ] Rain coat
+- [ ] hoodie/jumper/fleece
+- [ ] thermal top
+- [ ] thin jacket/jumper
+- [ ] cap/hat for the rain
+- [ ] shoes for hiking
+
+---
+
+- [ ] 3 t-shirt
+- [ ] 3 pants
+- [ ] 3 socks
+- [ ] 1 shorts
+- [ ] 1 trousers/jeans
+
+---
+
+- [ ] Eye mask
+- [ ] ear plugs
+- [ ] book
+- [ ] headphones
+- [ ] phone
+- [ ] pyjamas
+- [ ] laptop
+
+## Equipment
+
+- [ ] bikes
+- [ ] scooters
+- [ ] body boards
+- [ ] wetsuits
+- [ ] frisbee
+- [ ] tennis
+- [ ] football
+
+---
+
+- [ ] cadac
+- [ ] blue
+- [ ] bin bags
+- [ ] paper towels
+- [ ] toilet roll
+- [ ] washing up liquid
+- [ ] cloth
+- [ ] tea towel
+
+---
+
+- [ ] coffee
+- [ ] tea
+- [ ] decaf
+- [ ] butter
+
+---
+
+- [ ] mosquito repellent
+- [ ] shampoo
+- [ ] conditioner
+- [ ] soap
+- [ ] toothpaste
+- [ ] moisturiser
+- [ ] 
 
 
