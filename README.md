@@ -271,6 +271,7 @@
 - [ ] thin jacket/jumper
 - [ ] cap/hat for the rain
 - [ ] shoes for hiking
+- [ ] rucksack
 
 ---
 
@@ -310,7 +311,9 @@
 - [ ] washing up liquid
 - [ ] cloth
 - [ ] tea towel
-- [ ] rucksack 
+- [ ] tissues
+- [ ] power bank
+
 
 ---
 
@@ -327,6 +330,6 @@
 - [ ] soap
 - [ ] toothpaste
 - [ ] moisturiser
-- [ ] 
+
 
 
