@@ -103,11 +103,13 @@
 - [ ] Notebook
 - [ ] Activity / Colouring book
 - [ ] Pens/pencils
+- [ ] Reading book
 - [ ] Headphones
 - [ ] Tablet / Phone
 - [ ] Battery Pack
 - [ ] Book
 - [ ] Cards / Games
+- [ ] Camera
 
 
 # Kids Skiing Packing List
