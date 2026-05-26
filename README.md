@@ -80,6 +80,7 @@
 - [ ] 2 x Trousers / Leggings
 - [ ] 1 x Shorts
 - [ ] 1 x Cardigan / Jumper
+- [ ] Swimming costume / Goggles / Toys
 
 - [ ] Rain coat / Coat / Jacket
 - [ ] Hat / Cap
