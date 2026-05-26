@@ -110,6 +110,8 @@
 - [ ] Book
 - [ ] Cards / Games
 - [ ] Camera
+- [ ] purse wallet
+- [ ] fan
 
 
 # Kids Skiing Packing List
