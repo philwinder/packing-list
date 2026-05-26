@@ -84,7 +84,6 @@
 - [ ] Rain coat / Coat / Jacket
 - [ ] Hat / Cap
 - [ ] Fancy shoes
-- [ ] Sunglasses
 
 - [ ] Eye mask
 - [ ] Teddies
@@ -95,16 +94,20 @@
 - [ ] Toothbrush
 - [ ] Perfume
 - [ ] Makeup
+- [ ] Jewellery
 
 ## Travel Bag / Backpack
 
+- [ ] Sunglasses
 - [ ] Notebook
 - [ ] Activity / Colouring book
 - [ ] Pens/pencils
 - [ ] Headphones
 - [ ] Tablet / Phone
+- [ ] Battery Pack
 - [ ] Book
 - [ ] Cards / Games
+
 
 # Kids Skiing Packing List
 
