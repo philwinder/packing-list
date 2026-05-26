@@ -96,6 +96,7 @@
 - [ ] Perfume
 - [ ] Makeup
 - [ ] Jewellery
+- [ ] Watch
 
 ## Travel Bag / Backpack
 
@@ -107,7 +108,6 @@
 - [ ] Headphones
 - [ ] Tablet / Phone
 - [ ] Battery Pack
-- [ ] Book
 - [ ] Cards / Games
 - [ ] Camera
 - [ ] purse wallet
